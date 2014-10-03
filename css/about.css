@@ -1,0 +1,88 @@
+/* ==========================================================================
+						About PAGE
+   ========================================================================== */
+#about {}
+.shadow1 {
+	background:url('../img/landing/shadow_1.jpg') no-repeat;
+	width: 940px;
+	height: 23px;
+}
+.shadow2 {
+	background:url('../img/landing/shadow_2.jpg') no-repeat;
+	width: 940px;
+	height: 23px;
+}
+.abouttext p {
+	color:#1a76bc;
+	text-transform: uppercase;
+}
+
+
+.links {
+	margin-bottom: 25px;
+}
+	.links #dl {
+		background:url('../img/landing/funStuff_image.jpg') no-repeat;
+		width: 292px;
+		height: 309px;
+		float: left;
+	}
+	.win {
+		width: 292px;
+		height: 309px;
+		float: left;
+		margin: 0 32px;
+	}
+	.win #magenta-header {
+		background:#ed42c6;
+		height: 31px;
+	}
+	.win #magenta-header p {
+		color:#fff;
+		text-transform: uppercase;
+		margin-left: 10px;
+		font-size: 21px;
+		padding-top: 7px;
+	}
+	.links #win {
+		background:url('../img/landing/win_image.jpg') no-repeat 0 -32px;
+		width: 292px;
+		height: 277px;
+	}
+	.links #read {
+		background:url('../img/landing/wordsFrom_image.jpg') no-repeat;
+		width: 292px;
+		height: 309px;
+		float: left;
+	}
+
+.secondcontent {
+	overflow: hidden;
+	float: left;
+}
+	.secondcontent .inspire-text p {
+		color:#464646;
+		font-size: 20px;
+		margin-bottom: 10px;
+	}
+	#about .secondcontent .sbutton {
+		background:#1a76bc;
+		width: 280px;
+		height: 50px;
+		color:#fff;
+		text-transform: uppercase;
+		line-height: 50px;
+		text-align: center;
+		margin: 15px auto;
+	}
+		#about .secondcontent .sbutton p{
+			text-align: center;
+		}
+
+#adelandkid {
+	background:url('http://ussfoundation.org/data/casacolina/2012/images1/dsc_0762.jpg') no-repeat;
+	width: 290px;
+	height: 400px;
+	float: left;
+	margin-left: 35px;
+}

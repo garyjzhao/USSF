@@ -1,0 +1,264 @@
+
+/* ============================================================
+						INDEX
+============================================================== */
+#index {
+	padding: 0;
+	margin: 0;
+	background:url('../img/jazz_hands_background.png') no-repeat center top;
+	width: 100%;
+	height: 400px;
+}
+
+@media screen and (min-width: 300px)  and (max-width: 980px) {
+	#index {
+		background: none;
+	}
+}
+.firsthomecontent, .secondhomecontent, .thirdhomecontent {
+	overflow:hidden;
+}
+.firsthomecontent {
+}
+	.firsthomecontent .welcome {
+		font-size: 13px;
+		margin-bottom: 25px;
+	}
+#adelandkids {
+	background: url(../img/indexPictures.png) no-repeat -161px -450px;
+	width: 300px;
+	height: 206px;
+}
+#lowesPicture {
+	background: url(../img/indexPictures.png) no-repeat -300px 0;
+	width: 300px;
+	height: 450px;
+}
+#adoptabike2013picture {
+	background: url(../img/indexPictures.png) no-repeat;
+	width: 300px;
+	height: 450px;
+}
+
+	.firsthomecontent .introp {
+		line-height: 23px;
+		font-size: 17px;
+		margin: 0 0 15px 30px;
+		color:#797979;
+		width: 486px;
+	}
+	.firsthomecontent .introp a{
+		color:#797979;
+	}
+.secondhomecontent {
+}
+	.secondhomecontent #green-text {
+		background:url('../img/uss_foundation_home_programs.jpg') no-repeat;
+		height: 50px;
+		width: 960px;
+	}
+	.secondhomecontent .foundation-programs {
+	background:#f1f1f1;
+	height: 150px;
+	}
+		.foundation-programs > a {
+			float: left;
+		}
+		.foundation-programs > a > div {
+			height: 114px;
+			width: 161px;
+			margin: 18px 12px 0 13px;
+		}
+		#adoptabike-icon {
+			background:url(../img/indexPictures.png) no-repeat 0 -678px;
+		}
+		#golf-icon {
+			background:url(../img/indexPictures.png) no-repeat -161px -678px;
+		}
+		#thanks-icon {
+			background:url(../img/indexPictures.png) no-repeat -322px -678px;
+		}
+		#homeless-icon {
+			background:url(../img/indexPictures.png) no-repeat 0px -450px;
+		}
+		#casa-icon {
+			background:url(../img/indexPictures.png) no-repeat 0px -564px;
+		}
+	.secondhomecontent .shadow {
+		background:url('../img/raise_grade_shadow.jpg') no-repeat 0 -13px;
+		width: 940px;
+		height: 20px;
+	}
+		#shadow1 {
+			background:url('../img/shadow.jpg') no-repeat 0 -13px;
+			width: 800px;
+			height: 20px;
+			float: left;
+			-moz-transform: scaleY(-1);
+			-webkit-transform: scaleY(-1);
+			-o-transform: scaleY(-1);
+			transform: scaleY(-1);
+			-ms-filter: flipv; /*IE*/
+			filter: flipv; /*IE*/
+		}
+		#shadow2 {
+			background:url('../img/shadow.jpg') no-repeat 0 -13px;
+			height: 15px;
+			width: 800px;
+			float: left;
+		}
+	.secondhomecontent .raisethegrade {
+		overflow: auto;
+		margin:10px 80px 15px;
+		float: left;
+		width: 800px;
+	}
+		.raisethegrade #raise_hands {
+			background:url('../img/jazz_hands.jpg') no-repeat 0px 0;
+			width: 280px;
+			height: 304px;
+			float: left;
+			margin:10px 0;
+		}
+		.raisethegrade-text {
+			width: 450px;
+			float: left;
+			margin: 25px 0 0 25px;
+		}
+		#enter {
+			background: #6CC166;
+			height: 30px;
+			width: 165px;
+			float: left;
+
+		}
+			#enter p {
+				line-height: 30px;
+				text-align: center;
+				color:#fff;
+				text-transform: uppercase;
+			}
+
+		.raisethegrade #fineprint {
+			color:#797979;
+			font-size: 9px;
+			line-height: 15px;
+			letter-spacing: 1px;
+			text-align: justify;
+		}
+#golfIndex-header {
+	background:url('../img/landing/uss_foundation_home_title3.jpg') no-repeat;
+	width: 953px;
+	height: 40px;
+}
+.thirdhomecontent {
+	padding: 0;
+	margin: 0;
+	background:url('../img/grass_image.jpg') no-repeat center bottom;
+	width: 100%;
+	height: 400px;
+}
+	.thirdhomecontent #sponsorbannerlink {
+	background:url('../img/sponsor_link_image.jpg') no-repeat 0 -40px;
+	width: 905px;
+	height: 26px;
+	margin: 20px auto 20px;
+	}
+	.thirdhomecontent #interactivebar {
+	height: 35px;
+	background:#EE4D43;
+	width:909px;
+	float: left;
+	margin-bottom: 35px;
+	}
+	.thirdhomecontent #interactivebar p {
+		color:#fff;
+		float: left;
+		margin:5px 0 0 10px;
+		font-size: 20px;
+	}
+	.thirdhomecontent #interactive-fold {
+	background:url('../img/red_bar.jpg') no-repeat -14px 0;
+	width: 31px;
+	height: 51px;
+	float: right;
+	}
+	.basicTV {
+		width: 240px;
+		height: 182px;
+		float: left;
+		-webkit-box-shadow: 0 10px 15px -8px #000;
+		-moz-box-shadow: 0 10px 15px -8px #000;
+		box-shadow: 0 10px 15px -8px #000;
+	}
+	#TVspacing {
+		margin:0 95px;
+	}
+	#newsTV {
+		background:#0089d9;
+		padding:15px 0 15px 15px;
+		overflow: auto;
+	}
+		#newsTV .image {
+			background:url(../img/indexPictures.png) no-repeat -182px -792px;
+			width: 182px;
+			height: 152px;
+			float: left;
+		}
+		#newsTV .knobs {
+			background:url('../img/tv1_dials.jpg') no-repeat;
+			height: 58px;
+			width: 27px;
+			float: left;
+			margin-left: 7px;
+		}
+	#videoTV {
+		background:#d97800;
+		padding:15px 0 15px 15px;
+		overflow: auto;
+	}
+		#videoTV .image {
+			background:url(../img/indexPictures.png) no-repeat -364px -792px;
+			width: 182px;
+			height: 152px;
+			float: left;
+		}
+		#videoTV .knobs {
+			background:url('../img/tv2_dials.jpg') no-repeat;
+			height: 58px;
+			width: 27px;
+			float: left;
+			margin-left: 7px;
+		}
+	#funTV {
+		background:#84d900;
+		padding:15px 0 15px 15px;
+		overflow: auto;
+	}
+		#funTV .image {
+			background:url(../img/indexPictures.png) no-repeat 0 -792px;
+			width: 182px;
+			height: 152px;
+			float: left;
+		}
+		#funTV .knobs {
+			background:url('../img/tv3_dials.jpg') no-repeat;
+			height: 58px;
+			width: 27px;
+			float: left;
+			margin-left: 7px;
+		}
+.indexgalleryIcon {
+	float: left;
+	margin: 15px 15px 0 0;
+}
+
+	.indexgalleryIcon a {
+		color:#53aec6;
+		text-decoration: none;
+
+	}
+#NCMEC {
+	width: 124px;
+	background:#8e8e8e;
+}

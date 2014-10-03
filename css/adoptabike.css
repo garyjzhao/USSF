@@ -1,0 +1,188 @@
+/* ==========================================================================
+   ADOPT A BIKE
+   ========================================================================== */
+#adoptabike {
+
+}
+#boy {
+	background: url(../img/adoptabike/adopt_bike_boy.jpg) no-repeat;
+	width: 260px;
+	height: 378px;
+	float: left;
+}
+#hands {
+	background:url('../img/adoptabike/hands.jpg') no-repeat -28px -55px;
+	width: 351px;
+	height: 277px;
+	float: left;
+	margin: 68px 0 0 42px;
+}
+.adoptabike-content {
+	width: 520px;
+	float: left;
+}
+	.adoptabike-content p {
+		color:#8a8a8a;
+	}
+
+.buttons-container {
+	margin-top: 15px;
+}
+	.buttons-container a {
+		text-decoration: none;
+	}
+	.buttons-container .button {
+		width: 140px;
+		height: 30px;
+		text-align: center;
+		float: right;
+		margin: 0 0 10px 15px;
+	}
+	.buttons-container .button > p {
+		color:#fff;
+		text-transform: uppercase;
+		line-height: 30px;
+		text-align: center;
+	}
+#adoptabike-galley {
+	background:url('../img/adoptabike/adopt_bike_gallery.jpg') no-repeat;
+	width: 125px;
+	height: 37px;
+	margin-top: 15px;
+}
+#adoptabike-gallery2 {
+	background:url('../img/adoptabike/uss_foundation_adopt_bike_icon.jpg') no-repeat #8e8e8e bottom left;
+	width: 124px;
+	height: 275px;
+	margin-right: 15px;
+}
+.galleryIcon {float: left;width: 140px;}
+.galleryIcon a {
+	color:#53AEC6;
+	text-decoration: none;
+	margin: 0 24px;
+}
+
+
+
+/* ==========================================================================
+   ADOPT A BIKE - 2013
+   ========================================================================== */
+.schools {
+	overflow: hidden;
+	float: left;
+}
+	.schools p {
+		font-size: 18px;
+	}
+#opening {
+	margin-top: 15px;
+}
+.linkButton {
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+	.linkButton div {
+		padding: 5px 5px 5px 0px;
+		margin: 30px auto 0;
+	}
+	#fblogo {
+		background: url('../img/facebook-logo.png') no-repeat;
+		height: 100px;
+		width: 100px;
+		float: left;
+		position: relative;
+		top: -25px;
+		left: -10px;
+	}
+	#fbButton {
+		width: 235px;
+	}
+	@-moz-document url-prefix() {
+		#fbButton {
+			width:238px;
+		}
+	}
+	#donateLink {
+		background: #6ABCD0;
+		font-size: 25px;
+		text-align: center;
+	}
+
+
+.adoptabike2013-content {
+	float: left;
+}
+	.adoptabike2013-content p {
+		color:#8a8a8a;
+	}
+	.adoptabike2013-content b,
+	 .schoolsText b {
+		font-weight: bold;
+		color:#6ABCD0;
+	}
+.schoolsText p {
+	font-size: 23px;
+	letter-spacing: 1px;
+}
+.polaroidpic {
+	padding: 10px;
+	-webkit-box-shadow: 1px 1px 10px #666;
+	-moz-box-shadow: 1px 1px 10px #666;
+	box-shadow: 1px 1px 10px #666;
+}
+.left, .right {
+	float: left;
+}
+.polaroidpic  p {
+	color:#50ADC7;
+	font: 35px/31px 'Schoolbell', sans-serif;
+	font-weight: bold;
+	margin:10px 0 0;
+	text-align: center;
+}
+
+/* ==========================================================================
+   ADOPT A BIKE Plat
+   ========================================================================== */
+
+#donateIMG {
+	width: 300px;
+	padding: 0 5px;
+	border: 1px solid #000;
+	margin-bottom: 15px;
+}
+.donationBox {
+	height: 125px;
+	position: relative;
+	background-color: #69BDCF;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#69BDCF), to(#a4effb));
+	background-image: -webkit-linear-gradient(top, #69BDCF, #a4effb);
+	background-image:    -moz-linear-gradient(top, #69BDCF, #a4effb);
+	background-image:      -o-linear-gradient(top, #69BDCF, #a4effb);
+	background-image:         linear-gradient(to bottom, #69BDCF, #a4effb);
+}
+	.donationBox div {
+		margin: auto;
+		position: absolute;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+	}
+	.donationBox a {
+		color:#fff;
+	}
+	.donationBox p {
+		text-align: center;
+		margin-bottom: 0;
+	}
+	#legacy {height: 91px;}
+	#visionary, #benefactor, #human {height: 70px;}
+	#advocate {height: 49px;}
+
+.bigtext {
+	font-size:20px;
+}

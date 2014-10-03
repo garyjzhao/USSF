@@ -1,0 +1,140 @@
+#donate {}
+.donate-content {
+	display:inline;
+	float: left;
+	margin: 50px 10px 0;
+	width: 410px;
+}
+	.donate-content p {
+		text-align: justify;
+	}
+#donate-picture {
+	background:url('../img/donate/donate_kids_partners.jpg') no-repeat;
+	width: 426px;
+	height: 291px;
+	float: left;
+	margin-top: 28px;
+}
+.donate-heading {
+	background:#427cee;
+	height: 25px;
+}
+	.donate-heading p {
+		color:#fff;
+		text-transform: uppercase;
+		text-align: center;
+		line-height: 26px;
+	}
+.donation-form {
+	background:#dfdede;
+	overflow: auto;
+	padding: 0 40px;
+}
+	#billme,
+	.button {
+		cursor:pointer;
+	}
+	.donate-buttons {
+		margin: 25px 0;
+	}
+	.donate-buttons .button {
+		width: 100px;
+		height: 100px;
+		float: left;
+		background:#989898;
+		color:#fff;
+		text-align: center;
+		line-height: 100px;
+		font-size: 23px;
+	}
+		.button:hover {
+			background:#ccc;
+		}
+		.donate-buttons > .active {
+			background:#427cee;
+		}
+
+	.donate-options {
+		margin: 25px 0px;
+		overflow: auto;
+	}
+		.donate-options div {
+			float: left;
+			width: 325px;
+			height: 65px;
+			background:#427cee;
+			color:#fff;
+			text-align: center;
+			text-transform: uppercase;
+			line-height: 65px;
+		}
+	.form-25 {}
+		.form-heading {
+			text-transform: uppercase;
+			text-align: center;
+			line-height:26px;
+			height: 25px;
+			color:#fff;
+			background:#989898;
+		}
+
+
+
+
+.donatePicture {
+	padding: 10px;
+	background: #fff;
+	-webkit-box-shadow: 1px 4px 15px #333;
+	-moz-box-shadow: 1px 4px 15px #333;
+	box-shadow: 1px 4px 15px #333;
+	width: 275px;
+	margin: 0 5px;
+}
+
+.rotateL {
+	transform: rotate(-2deg);
+	-webkit-transform: rotate(-2deg);
+	-moz-transform: rotate(-2deg);
+}
+.rotateR {
+	transform: rotate(2deg);
+	-webkit-transform: rotate(2deg);
+	-moz-transform: rotate(2deg);
+}
+
+
+#textBG {
+	background: #2275B9;
+	margin-bottom: 25px;
+}
+	#textBG p {
+		color:#2275B9;
+		width: 800px;
+		margin: 0 auto;
+		text-align: center;
+		font-size: 2em;
+		text-transform: uppercase;
+		background: #fff;
+	}
+
+.donateText {
+	float: left;
+}
+	.donateText b {
+		font-weight: bold;
+		color:#66BCD0;
+	}
+.redText {
+	float: left;
+	margin-left:15px;
+	position: relative;
+	top:-30px;
+}
+
+
+
+
+
+
+
+

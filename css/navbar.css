@@ -1,0 +1,193 @@
+.Bounce {
+	position: relative;
+}
+
+.friendsCurrent,
+.progCurrent,
+.funCurrent,
+.current {
+	background:#fff;
+	color:#009bed;
+	opacity: 0.8;
+	font-weight: bold;
+}
+/*.friendsCurrent {
+	background:url('../img/glow.png') no-repeat 14px 0;
+}
+.progCurrent {
+	background:url('../img/glow.png') no-repeat 30px 0;
+}
+.funCurrent {
+	background:url('../img/glow.png') no-repeat -10px 0;
+}*/
+#logo {margin: 0;}
+.navbar {overflow: hidden;margin: 25px 10px 0;width: 940px;}
+.nav1, .nav2 {
+	float:right;
+}
+.nav1 {
+	width: 762px;
+	margin:23px 0 4px;
+}
+.nav1 ul {
+	padding: 0;
+	margin: 0;
+}
+.nav1 ul li {
+	display:inline;
+}
+	#navgames {
+		background:url('../img/games_icon.jpg') no-repeat;
+		width: 74px;
+		height: 20px;
+		float:left;
+	}
+	.newButtons {
+		float: left;
+		color:rgb(31, 122, 191);
+		text-transform: lowercase;
+		font-size: 15px;
+	}
+	#navvideos {
+		background:url(/img/landing/video_button.png) no-repeat -5px -11px;
+		width: 42px;
+		height: 30px;
+		float:left;
+	}
+	#navdownloads {
+		background:url(/img/landing/activities_button.png) no-repeat -5px -11px;
+		width: 42px;
+		height: 30px;
+		float:left;
+		margin-left: 15px;
+	}
+
+	#cs {
+		color:#797979;
+		font-size: 12px;
+		float: right;
+		margin-top: 7px;
+	}
+	.socialmedia {
+		background: url(../img/SM.jpg) no-repeat;
+		width: 25px;
+		height: 25px;
+		float: right;
+		margin: 0 5px;
+	}
+	.socialmedia#fb {
+		background-position: 0 0;
+	}
+	.socialmedia#tw {
+		background-position: -50px 0;
+	}
+	.socialmedia#yt {
+		background-position:-75px 0;
+	}
+	.socialmedia#ig {
+		background-position:-25px 0;
+	}
+
+.nav2 {
+	background:url('../img/wonderful_nav_bar.jpg') repeat-y;
+	width: 762px;
+	height: 25px;
+}
+.nav2 > div,
+.nav2 > a {
+	float: left;
+	text-transform: uppercase;
+	color:#fff;
+	text-align: center;
+	text-decoration: none;
+	line-height: 28px;
+}
+.nav2 p {
+	text-shadow:0 0 0.2em #000;
+}
+	.nav2  div {}
+	.nav2 #navabout {
+		width: 107px;
+	}
+	.nav2 #navnews {
+		width: 93px;
+	}
+	.nav2 #navprograms {
+		width: 125px;
+	}
+	.nav2 #navappre {
+		width: 107px;
+	}
+	.nav2 #navfun {
+		width: 100px;
+	}
+	.nav2 #navcontact {
+		width: 118px;
+	}
+	.nav2 #navdonate {
+		width: 112px;
+	}
+#banner {
+	background:url('../img/nichole_brandon_banner.jpg') no-repeat;
+	width: 940px;
+	height: 305px;
+}
+#banner-shadow {
+	background:url('../img/banner_shadow.jpg') no-repeat;
+	width: 902px;
+	height: 29px;
+	margin: 0 auto 10px;
+}
+
+/*Footer*/
+.footer {
+	color:#797979;
+	text-align: center;
+	font-size: 12px;
+	height: 30px;
+	margin-top: 2px;
+	line-height: 30px;
+}
+	.footer a {
+		color:#1a75bc;
+		text-decoration: none;
+	}
+
+
+  .ui-menu .ui-menu-item {
+    display: inline-block;
+    margin: 0;
+    padding: 0 10px;
+    width: auto;
+    text-transform: uppercase;
+  }
+  .ui-menu .ui-menu .ui-menu-item {
+    margin: 0;
+    padding: 0;
+    display: block;
+  }
+  .ui-menu .ui-menu .ui-menu-item a {
+    margin: 7px;
+    padding: 0;
+    color:#fff;
+    border-bottom: 1px solid #DFDFDF;
+  }
+
+
+  .ui-menu .ui-menu .ui-menu-item a.ui-state-focus {
+    margin: 7px;
+    color:#5CC3E6;
+  }
+  .ui-menu .ui-menu-item a.ui-state-focus, .ui-menu .ui-menu-item a.ui-state-active {
+    margin: 0;
+  }
+  .ui-menu .ui-menu {
+    background: rgba(0,0,0,0.5);
+  }
+    .nav2 ul {
+      margin: 0;
+      padding: 0;
+    }
+    .nav2 a {
+      color: #fff;
+    }

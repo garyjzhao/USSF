@@ -1,0 +1,106 @@
+.topstories, .newsentries {
+	overflow: hidden;
+}
+#top-heading {
+	background:url('../img/news/news_moreStories.jpg') no-repeat;
+	width: 952px;
+	height: 87px;
+	float: left;
+	margin-bottom: 10px;
+}
+.story-icons {
+	float: left;
+	margin-bottom: 20px;
+}
+#casacolina-icon {
+	background:url('../img/news/news_moreStories1.jpg') no-repeat;
+	width: 215px;
+	height: 169px;
+	float: left;
+	margin-right: 10px;
+	cursor: pointer;
+}
+#bike-icon {
+	background:url('../img/news/news_moreStories2.jpg') no-repeat;
+	width: 216px;
+	height: 169px;
+	float: left;
+	margin-right: 15px;
+	cursor: pointer;
+}
+#healthbridge-icon {
+	background:url('../img/news/news_moreStories3.jpg') no-repeat;
+	width: 216px;
+	height: 169px;
+	float: left;
+	cursor: pointer;
+	margin-right: 13px;
+}
+#thanksgiving-icon {
+	background:url('../img/news/news_moreStories4.jpg') no-repeat;
+	width: 216px;
+	cursor: pointer;
+	height: 169px;
+	float: left;
+}
+#top-footer {
+	background:url('../img/news/uss_foundation_news_topStories.jpg') no-repeat 0px -281px;
+	width: 952px;
+	height: 40px;
+	float: left;
+}
+
+.newsentries {
+	width: 800px;
+	margin-left: 90px;
+	margin-bottom: 15px;
+}
+	.newsentries p {
+		color:#797979;
+		text-align: justify;
+		font-size: 17px;
+	}
+	.newsentries a {
+		color:rgb(68,182,208);
+	}
+
+.targetDiv {display: none;}
+	.targetDiv img {
+		float: left;
+		width: 400px;
+		margin-bottom: 20px;
+	}
+	.targetDiv .textEntries p,
+	.targetDiv .textEntries a {
+		margin-left: 15px;
+		width: 300px;
+		float: left;
+	}
+
+.newsVideos {
+	margin-top: 15px;
+	background: #ddd;
+	padding: 20px;
+}
+.videoentry {
+	margin-bottom: 20px;
+}
+
+.videoentry > a {
+	text-decoration: none;
+}
+
+.videoentry > a:link,
+.videoentry > a:visited,
+.videoentry > a:hover,
+.videoentry > a:active {
+	text-decoration: none;
+	color:#92BDFD;
+}
+
+/*====================
+VIDEO.CSS
+====================*/
+#video div iframe {
+	margin-top: 25px;
+}

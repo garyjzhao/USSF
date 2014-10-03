@@ -1,0 +1,259 @@
+.golfContent {
+	width: 605px;
+	float: left;
+}
+#golfBoy {
+	background:url('../img/golfcharity/NRF_Golf.png') no-repeat;
+	width: 335px;
+	height: 392px;
+	float: left;
+}
+.golfgalleryIcon {
+	width: 124px;
+	margin-right:15px;
+	margin-top: 15px;
+	float: left;
+}
+	.golfgalleryIcon a {
+		color: #53AEC6;
+		text-decoration: none;
+	}
+	#golf-galley {
+		background:url('../img/golfcharity/golf charity_gallery.jpg') no-repeat;
+		width: 125px;
+		height: 35px;
+		margin-bottom: 8px;
+	}
+	#golf-gallery2 {
+		background:url('../img/golfcharity/golf-charityicon.jpg') no-repeat #8e8e8e bottom;
+		width: 124px;
+		height: 335px;
+	}
+.golfButtons {
+	float: right;
+}
+	.golfButtons a {
+		overflow: auto;
+	}
+
+
+/*=====================
+GALLERY.CSS
+=====================*/
+#gallery {}
+
+.galHead {
+	background:url('../img/gallery/gallery_headline.jpg') no-repeat;
+	width: 952px;
+	height: 162px;
+}
+
+
+
+/*=====================
+COOLZONE.CSS
+=====================*/
+.coolzonetext {
+	overflow: auto;
+	width: 850px;
+	margin: 0 auto 15px;
+}
+	.coolzonetext p {
+		float: left;
+		text-transform: uppercase;
+		text-align: center;
+		font-size: 45px;
+	}
+.CZ-row1 div,
+.CZ-row2 div,
+.CZ-row3 div,
+.CZ-row4 div,
+.CZ-row5 div {
+	height: 296px;
+	float: left;
+}
+.CZ-row1 div {
+	background: url(../img/coolzone/row1.jpg) no-repeat;
+}
+.CZ-row2 div {
+	background: url(../img/coolzone/activities_row2.jpg) no-repeat;
+}
+.CZ-row3 div {
+	background: url(../img/coolzone/activities_row3.jpg) no-repeat;
+}
+
+.CZ-row4 div {
+	background: url(../img/coolzone/activities_row4.jpg) no-repeat;
+}
+.CZ-row5 div {
+	background: url(../img/coolzone/activities_row5.jpg) no-repeat;
+}
+.CZ-row1 .CZbtw12,
+.CZ-row2 .CZbtw12,
+.CZ-row3 .CZbtw12,
+.CZ-row4 .CZbtw12,
+.CZ-row5 .CZbtw12 {
+	width: 37px;
+	background-position: -234px 0;
+}
+.CZ-row1 .CZbtw23,
+.CZ-row2 .CZbtw23,
+.CZ-row3 .CZbtw23,
+.CZ-row4 .CZbtw23,
+.CZ-row5 .CZbtw23 {
+	width: 46px;
+	background-position: -453px 0;
+}
+.CZ-row1 .CZbtw34,
+.CZ-row2 .CZbtw34,
+.CZ-row3 .CZbtw34,
+.CZ-row4 .CZbtw34,
+.CZ-row5 .CZbtw34 {
+	width: 42px;
+	background-position: -681px 0;
+}
+	.CZ-row1 .picture1,
+	.CZ-row2 .picture1,
+	.CZ-row3 .picture1,
+	.CZ-row4 .picture1,
+	.CZ-row5 .picture1 {
+		background-position: -52px 0;
+		width: 182px;
+		margin-left: 52px;
+	}
+	.CZ-row1 .picture2,
+	.CZ-row2 .picture2,
+	.CZ-row3 .picture2,
+	.CZ-row4 .picture2,
+	.CZ-row5 .picture2 {
+		background-position: -271px 0;
+		width: 182px;
+	}
+	.CZ-row1 .picture3,
+	.CZ-row2 .picture3,
+	.CZ-row3 .picture3,
+	.CZ-row4 .picture3,
+	.CZ-row5 .picture3 {
+		background-position: -499px 0;
+		width: 182px;
+	}
+	.CZ-row1 .picture4,
+	.CZ-row2 .picture4,
+	.CZ-row3 .picture4,
+	.CZ-row4 .picture4,
+	.CZ-row5 .picture4 {
+		background-position: -723px 0;
+		width: 182px;
+	}
+/*=====================
+friends.CSS
+=====================*/
+.appreciation-sponsors div {
+	background: url(../img/friends.png) no-repeat;
+	float: left;
+}
+#ebaylogo {
+	background-position: 0 0;
+	width: 225px;
+	height: 52px;
+}
+#LPMagazinelogo {
+	background-position: 0 -54px;
+	width: 77px;
+	height: 70px;
+	margin: 0 50px;
+}
+#LPjobsLogo {
+	background-position: -77px -54px;
+	margin: 0 50px;
+	width: 159px;
+	height: 70px;
+}
+#ContactLogo {
+	background-position: -235px 0;
+	width: 89px;
+	height: 70px;
+}
+#retailequationLogo {
+	background-position: -236px -70px;
+	width: 150px;
+	height: 53px;
+	margin: 0 15px 0 15px;
+}
+#stanleyLogo {
+	background-position: 0 -124px;
+	width: 150px;
+	height: 61px;
+	margin: 0 30px;
+}
+#dieboldLogo {
+	background-position: -150px -124px;
+	width: 170px;
+	height: 53px;
+	margin: 0 40px;
+}
+#eliteLogo {
+	background-position: 0 -185px;
+	width: 110px;
+	height: 66px;
+}
+#plotkinLogo {
+	background-position: -110px -185px;
+	margin-left: 55px;
+	width: 225px;
+	height: 70px;
+}
+#palmerLogo {
+	background-position: 0 -255px;
+	margin: 0 60px;
+	width: 139px;
+	height: 70px;
+}
+#LPInnovationLogo {
+	background-position: -139px -255px;
+	width: 90px;
+	height: 33px;
+}
+#JenningsLogo {
+	background-position: -118px -338px;
+	width: 200px;
+	height: 27px;
+	margin: 0 135px;
+}
+#TMTLogo {
+	background-position: -139px -288px;
+	width: 193px;
+	height: 50px;
+	margin: 0 25px;
+}
+#portcityLogo {
+	background-position: 0 -325px;
+	width: 117px;
+	height: 50px;
+	margin: 0 25px;
+}
+#haroldLogo {
+	background-position: 0 -375px;
+	width: 224px;
+	height: 50px;
+	margin: 0 15px;
+}
+
+#club-1 {
+	background:url(../img/USSF_Club_Flyer.jpg) no-repeat;
+	width: 960px;
+	height: 1000px;
+	float: left;
+}
+#club-2 {
+	background:url(../img/USSF_Club_Flyer.jpg) no-repeat -390px -1070px;
+	width: 300px;
+	height: 200px;
+	float: left;
+}
+#club-3 {
+	background:url(../img/USSF_Club_Flyer.jpg) no-repeat -700px -1070px;
+	width: 250px;
+	height: 200px;
+	float: right;
+}
