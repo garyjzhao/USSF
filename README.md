@@ -8,7 +8,7 @@ In this repo, you will find sample code of the work I did while at Universal Sur
 Full website: http://www.ussfoundation.org
 
 
-*Disclaimer: Actual website is subject to change without notice*
+*Disclaimer: Actual website is subject to change without notice.*
 
 Technology used:
 * PHP
