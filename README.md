@@ -2,8 +2,7 @@
 
 ### Written by Gary Zhao
 
-
-In this repo, you will find sample code of the work I did while at Universal Surveillance Systems (November 2012 to August 2014).
+In this repo, you will find smaple code of the work I did for Universal Surveillance Systems' charity website.
 
 Full website: http://www.ussfoundation.org
 
